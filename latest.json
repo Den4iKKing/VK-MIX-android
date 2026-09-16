@@ -1,9 +1,9 @@
 {
-  "versionCode": 900,
-  "versionName": "0.9.0",
-  "url": "https://github.com/Den4iKKing/VK-MIX-android/releases/download/v0.9.0/vk-mix-0.9.0.apk",
-  "sha256": "82b63bea521eb9a3766ff1fe93f71521aae84717497ac8b3196ab0e8582cefbc",
-  "sizeBytes": 3421195,
+  "versionCode": 901,
+  "versionName": "0.9.1",
+  "url": "https://github.com/Den4iKKing/VK-MIX-android/releases/download/v0.9.1/vk-mix-0.9.1.apk",
+  "sha256": "0c6fa423704904f304f2cec1393dec5507f518421c333d100c4ca409e293e0b8",
+  "sizeBytes": 3438015,
   "minSdk": 26,
-  "notes": "Первая версия для телефона. Всё, что умеет VK MIX на компьютере, и кое-что сверх того."
+  "notes": "Восемь поломок в проверке «вы человек» — и каталог, который наконец пользуется широким экраном."
 }
