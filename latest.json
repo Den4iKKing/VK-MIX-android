@@ -1,9 +1,9 @@
 {
-  "versionCode": 1000,
-  "versionName": "0.10.0",
-  "url": "https://github.com/Den4iKKing/VK-MIX-android/releases/download/v0.10.0/vk-mix-0.10.0.apk",
-  "sha256": "25d1a49228875a733a57847981f32d3b98d9ae7826c4da735624087f02b5fea5",
-  "sizeBytes": 3610461,
+  "versionCode": 1001,
+  "versionName": "0.10.1",
+  "url": "https://github.com/Den4iKKing/VK-MIX-android/releases/download/v0.10.1/vk-mix-0.10.1.apk",
+  "sha256": "5a2bb0861c1f2fb514a66820d67c8ed6f13f6000b500fabe373e8a169b1a6f05",
+  "sizeBytes": 3610460,
   "minSdk": 26,
-  "notes": "Треки запускаются быстрее, «Далее» срабатывает почти мгновенно, а обрывы сети и VPN больше не останавливают музыку и не выкидывают из аккаунта."
+  "notes": "Исправлено: треки иногда не запускались - после нескольких переключений или после повторного открытия приложения висела загрузка, а через 20 секунд появлялось «Поток не отвечает»."
 }
