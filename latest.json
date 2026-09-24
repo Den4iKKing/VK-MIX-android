@@ -1,9 +1,9 @@
 {
-  "versionCode": 903,
-  "versionName": "0.9.3",
-  "url": "https://github.com/Den4iKKing/VK-MIX-android/releases/download/v0.9.3/vk-mix-0.9.3.apk",
-  "sha256": "c50c3f16f764c7e920bb5bb55cd89b6d5ea6033fd68d63624d14c24b381c01d4",
-  "sizeBytes": 3459187,
+  "versionCode": 1000,
+  "versionName": "0.10.0",
+  "url": "https://github.com/Den4iKKing/VK-MIX-android/releases/download/v0.10.0/vk-mix-0.10.0.apk",
+  "sha256": "25d1a49228875a733a57847981f32d3b98d9ae7826c4da735624087f02b5fea5",
+  "sizeBytes": 3610461,
   "minSdk": 26,
-  "notes": "Страница ВКонтакте внутри приложения больше не отчитывается счётчикам и рекламным сетям, а приложение не заглядывает на страницы, где вводятся телефон и пароль."
+  "notes": "Треки запускаются быстрее, «Далее» срабатывает почти мгновенно, а обрывы сети и VPN больше не останавливают музыку и не выкидывают из аккаунта."
 }
