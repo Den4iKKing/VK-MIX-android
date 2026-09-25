@@ -1,9 +1,9 @@
 {
-  "versionCode": 1001,
-  "versionName": "0.10.1",
-  "url": "https://github.com/Den4iKKing/VK-MIX-android/releases/download/v0.10.1/vk-mix-0.10.1.apk",
-  "sha256": "5a2bb0861c1f2fb514a66820d67c8ed6f13f6000b500fabe373e8a169b1a6f05",
-  "sizeBytes": 3610460,
+  "versionCode": 1100,
+  "versionName": "0.11.0",
+  "url": "https://github.com/Den4iKKing/VK-MIX-android/releases/download/v0.11.0/vk-mix-0.11.0.apk",
+  "sha256": "5f03ad40a2eaa82099bc3fe5b6ca78d94a715cd1e5f7637bd6dbee4390a470dd",
+  "sizeBytes": 3628307,
   "minSdk": 26,
-  "notes": "Исправлено: треки иногда не запускались - после нескольких переключений или после повторного открытия приложения висела загрузка, а через 20 секунд появлялось «Поток не отвечает»."
+  "notes": "Новый вид плеера: на фоне размытая обложка трека, а значки и кнопки во всём приложении заменены на новые."
 }
