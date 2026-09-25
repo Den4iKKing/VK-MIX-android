@@ -1,9 +1,9 @@
 {
-  "versionCode": 1100,
-  "versionName": "0.11.0",
-  "url": "https://github.com/Den4iKKing/VK-MIX-android/releases/download/v0.11.0/vk-mix-0.11.0.apk",
-  "sha256": "5f03ad40a2eaa82099bc3fe5b6ca78d94a715cd1e5f7637bd6dbee4390a470dd",
-  "sizeBytes": 3628307,
+  "versionCode": 1101,
+  "versionName": "0.11.1",
+  "url": "https://github.com/Den4iKKing/VK-MIX-android/releases/download/v0.11.1/vk-mix-0.11.1.apk",
+  "sha256": "e10766dc1b79b3a92858ea98a67675a6cdec1e8a9158050107f76e8afd6730ed",
+  "sizeBytes": 3628306,
   "minSdk": 26,
-  "notes": "Новый вид плеера: на фоне размытая обложка трека, а значки и кнопки во всём приложении заменены на новые."
+  "notes": "Исправлено: сообщение под треком больше не остаётся висеть на всех следующих треках."
 }
