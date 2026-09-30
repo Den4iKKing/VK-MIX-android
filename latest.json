@@ -1,9 +1,9 @@
 {
-  "versionCode": 1101,
-  "versionName": "0.11.1",
-  "url": "https://github.com/Den4iKKing/VK-MIX-android/releases/download/v0.11.1/vk-mix-0.11.1.apk",
-  "sha256": "e10766dc1b79b3a92858ea98a67675a6cdec1e8a9158050107f76e8afd6730ed",
-  "sizeBytes": 3628306,
+  "versionCode": 1102,
+  "versionName": "0.11.2",
+  "url": "https://github.com/Den4iKKing/VK-MIX-android/releases/download/v0.11.2/vk-mix-0.11.2.apk",
+  "sha256": "b04f2f66f40b244e6938e198a16f533625f5db63de1789199b578c35b3b5a9a4",
+  "sizeBytes": 4855915,
   "minSdk": 26,
-  "notes": "Исправлено: сообщение под треком больше не остаётся висеть на всех следующих треках."
+  "notes": "Новый логотип: значок на рабочем столе, заставка при запуске и логотип на экране входа и в «О приложении»."
 }
