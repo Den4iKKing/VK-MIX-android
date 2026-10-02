@@ -1,9 +1,9 @@
 {
-  "versionCode": 1200,
-  "versionName": "0.12.0",
-  "url": "https://github.com/Den4iKKing/VK-MIX-android/releases/download/v0.12.0/vk-mix-0.12.0.apk",
-  "sha256": "1ef6518de5528e4d9c9017ec74edd87f3f93de6640ab72459975ff7b04b3d2f5",
-  "sizeBytes": 4894678,
+  "versionCode": 1201,
+  "versionName": "0.12.1",
+  "url": "https://github.com/Den4iKKing/VK-MIX-android/releases/download/v0.12.1/vk-mix-0.12.1.apk",
+  "sha256": "fa7d3d2700faa49d765c544b3ca42b864aa291641a79ff24d29cfd4e6d4a0478",
+  "sizeBytes": 4894682,
   "minSdk": 26,
-  "notes": "Приложение подстраивается под крупный шрифт и увеличенный масштаб экрана: тексты не обрезаются и не рвутся посередине слова, кнопки не уезжают за край. И новая настройка «Размер текста»."
+  "notes": "Исправления к 0.12.0: в плеере название трека снова видно целиком, а строки треков при крупном шрифте больше не мигают."
 }
