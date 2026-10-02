@@ -1,9 +1,9 @@
 {
-  "versionCode": 1102,
-  "versionName": "0.11.2",
-  "url": "https://github.com/Den4iKKing/VK-MIX-android/releases/download/v0.11.2/vk-mix-0.11.2.apk",
-  "sha256": "b04f2f66f40b244e6938e198a16f533625f5db63de1789199b578c35b3b5a9a4",
-  "sizeBytes": 4855915,
+  "versionCode": 1200,
+  "versionName": "0.12.0",
+  "url": "https://github.com/Den4iKKing/VK-MIX-android/releases/download/v0.12.0/vk-mix-0.12.0.apk",
+  "sha256": "1ef6518de5528e4d9c9017ec74edd87f3f93de6640ab72459975ff7b04b3d2f5",
+  "sizeBytes": 4894678,
   "minSdk": 26,
-  "notes": "Новый логотип: значок на рабочем столе, заставка при запуске и логотип на экране входа и в «О приложении»."
+  "notes": "Приложение подстраивается под крупный шрифт и увеличенный масштаб экрана: тексты не обрезаются и не рвутся посередине слова, кнопки не уезжают за край. И новая настройка «Размер текста»."
 }
